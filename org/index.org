@@ -1,0 +1,7 @@
+#+TITLE: My Fake Project
+
+Welcome to the test site! This is generated purely by Emacs.
+
+* Navigation
+- [[file:about.org][About this project]]
+- [[file:usage/index.org][Usage Instructions]]

@@ -1,0 +1,6 @@
+#+TITLE: About
+
+This is a fake project to test =org-publish=. 
+Notice how we don't need any special properties or UUIDs.
+
+Back to [[file:index.org][Home]].

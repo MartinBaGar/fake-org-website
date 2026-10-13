@@ -1,0 +1,8 @@
+#+TITLE: Usage
+
+This file lives in a subdirectory (=org/usage/index.org=). 
+
+Because we bypassed Hugo, Emacs just translates this directly to =docs/usage/index.html=. No path stripping, no collisions.
+
+- Back to [[file:../index.org][Home]]
+- Go to [[file:../about.org][About]]
